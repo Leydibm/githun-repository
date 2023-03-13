@@ -1,0 +1,4 @@
+public static void main(arg[]){
+	System.out.println("Hello");
+	System.out.println("New Line");
+}
